@@ -1,6 +1,7 @@
 # ncellApp
 perfuntory application to read data from my sql database and display on android phone
 
+*comment classes are not done yet
 
 client will send the server name value pairs whose first pair is for the type of request which may be like login or foodItem or postComment or getLikes or getComments etc by which the server has to determine what kind of json response to form
 
